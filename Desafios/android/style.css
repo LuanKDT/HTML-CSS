@@ -190,7 +190,7 @@ footer > p{
 #lista1{
    list-style: '\2714\00A0';
    columns: 2;
-   min-width: 450px;
+   min-width: 350px;
    max-width: 550px;
 }
 
