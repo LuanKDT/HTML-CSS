@@ -4,6 +4,10 @@
     src: url("fontes/idroid.otf") format('opentype')
 }
 
+html{
+    min-width: 0px;
+}
+
 body{
     margin: 0px;
     background-color: #85f78579;
